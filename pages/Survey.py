@@ -28,8 +28,8 @@ if not os.path.exists(csv_path):
 
 # DATA INPUT FORM
 with st.form("survey_form", clear_on_submit=True):
-    category_input = st.text_input("Enter a category:")
-    value_input = st.text_input("Enter a corresponding value:")
+    category_input = st.text_input("Enter a ship:")
+    value_input = st.text_input("Enter your rating:")
 
     submitted = st.form_submit_button("Submit Data")
 
