@@ -1,0 +1,21 @@
+{
+    "chart_title": "Bridgerton Seasons Drama Ratings",
+    "data_points": [
+        {
+            "label": "Daphmon",
+            "value": 9
+        },
+        {
+            "label": "Kanthony",
+            "value": 10
+        },
+        {
+            "label": "Polin",
+            "value": 8
+        },
+        {
+            "label": "Benophie",
+            "value": 9
+        }
+    ]
+}
